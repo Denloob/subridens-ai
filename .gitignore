@@ -1,0 +1,7 @@
+CNN/
+genki4k/
+dataset/
+dataset_raw/
+haarcascade_frontalface_default.xml
+*.csv
+untitled_project/
